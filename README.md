@@ -1,13 +1,10 @@
-# 1. 자기소개
+# 자기소개
 - 이름: 김예서
 - 소속: 서강대학교 영미어문/컴퓨터공학 전공
 - 2021년~2026년 재학중, 2027년 2월 졸업 예정
 
-# 2. 진행 프로젝트
-
-## CV 팀 프로젝트 (멋쟁이사자처럼): 2025.12~2026.02
-## CV 팀 프로젝트 | 멋쟁이사자처럼
-## 2025.12 ~ 2026.02
+# 진행 프로젝트
+## 1.CV 팀 프로젝트 (멋쟁이사자처럼): 2025.12~2026.02
 
 1. 주행 중 동적/정적 물체 3D 객체탐지
 GitHub: https://github.com/kimys0925/3D_objectdetection
@@ -21,7 +18,7 @@ GitHub: https://github.com/kimys0925/3D_objectdetection
    https://github.com/lim1004567/AICV03_Multimodal-Predictive-Maintenance
 
    
-## 서강대 캡스톤디자인 팀 프로젝트: 2026 상반기
+## 2.서강대 캡스톤디자인 팀 프로젝트: 2026 상반기
 https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot
 <img width="1011" height="184" alt="image" src="https://github.com/user-attachments/assets/5fdc3d42-29bd-40a3-9edf-fadc661e15ff" />
 
