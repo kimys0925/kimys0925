@@ -5,8 +5,7 @@
 <br>
 
 # 진행 프로젝트
-## 1.CV 팀 프로젝트 (멋쟁이사자처럼): 2025.12~2026.02
-<br>
+## 1. CV 팀 프로젝트 (멋쟁이사자처럼): 2025.12~2026.02
 1. 주행 중 동적/정적 물체 3D 객체탐지<br>
 - GitHub: https://github.com/kimys0925/3D_objectdetection<br>
 - 차세대 3D 객체 탐지 알고리즘인 CenterPoint를 구현하고 성능을 분석한 프로젝트입니다.
@@ -24,7 +23,7 @@
 https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot
 <img width="1011" height="184" alt="image" src="https://github.com/user-attachments/assets/5fdc3d42-29bd-40a3-9edf-fadc661e15ff" />
 
-Unity와 ROS2를 활용한 산업 안전 순찰 로봇 시뮬레이션 프로젝트입니다.
+Unity와 ROS2를 활용한 산업 안전 순찰 로봇 시뮬레이션 프로젝트입니다. <br>
 
 - 역할: 자율주행 / 센서 시뮬레이션
 - 기술: Unity, C#, ROS2, ROS-TCP-Connector, SLAM Toolbox, Nav2
