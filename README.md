@@ -7,9 +7,10 @@
 ## CV 팀 프로젝트 (멋쟁이사자처럼): 2025.12~2026.02
 1. 주행 중 동적/정적 물체 3D 객체탐지
     https://github.com/kimys0925/3D_objectdetection
-2. 배터리 불량 검출 Segmentation 프로젝트
+   본 프로젝트는 차세대 3D 객체 탐지 알고리즘인 CenterPoint를 구현하고 성능을 분석한 연구입니다. 특히 기존 Anchor-based 모델(PointPillars)의 한계를 극복하기 위한 Anchor-free(Heatmap-based) 방식의 효율성을 검증하고, nuScenes v1.0-mini(2019)라는 극히 제한된 데이터 환경에서 모델이 어떻게 공간 정보를 학습하고 일반화하는지를 고찰하는 데 초점을 맞췄습니다.
+3. 배터리 불량 검출 Segmentation 프로젝트
    https://github.com/jueuni135-spec/segmentation_factory
-3. 열화 예지보전 멀티모달 프로젝트 (⭐해당 프로젝트는 본인이 데이터셋과 주제를 선정하여 진행하였음)
+4. 열화 예지보전 멀티모달 프로젝트 (⭐해당 프로젝트는 본인이 데이터셋과 주제를 선정하여 진행하였음)
    https://github.com/lim1004567/AICV03_Multimodal-Predictive-Maintenance
 
    
