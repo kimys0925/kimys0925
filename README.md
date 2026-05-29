@@ -9,7 +9,7 @@
     https://github.com/kimys0925/3D_objectdetection
 2. 배터리 불량 검출 Segmentation 프로젝트
    https://github.com/jueuni135-spec/segmentation_factory
-3. 열화 예지보전 멀티모달 프로젝트
+3. 열화 예지보전 멀티모달 프로젝트 (⭐해당 프로젝트는 본인이 데이터셋과 주제를 선정하여 진행하였음)
    https://github.com/lim1004567/AICV03_Multimodal-Predictive-Maintenance
 
    
