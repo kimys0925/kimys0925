@@ -31,7 +31,7 @@ AI-Hub의 배터리 불량 이미지 데이터를 활용하여 정상/불량 이
 
 - 구현 단계에서는 가이드 논문에 근거하여 Multimodal Transformer 기반의 베이스라인 모델을 구현하고, 이미지 패치 토큰과 센서 시계열 토큰을 하나의 시퀀스로 융합하여 Self-Attention을 통해 두 데이터 간의 관계를 학습하도록 설계했습니다.<br>
    
-## 2.서강대 캡스톤디자인 팀 프로젝트: 2026 상반기
+## 2. 서강대 캡스톤디자인 팀 프로젝트: 2026 상반기
 1. 팀 깃헙
 - https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot
 2. 개인 깃헙
