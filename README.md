@@ -29,8 +29,10 @@ AI-Hub의 배터리 불량 이미지 데이터를 활용하여 정상/불량 이
 
 - 프로젝트 초반에는 직접 주제와 데이터셋을 선정하고, 제조 현장 내 설비 이상 감지와 예지보전의 필요성을 바탕으로 문제를 정의했습니다. 이후 열화상 이미지와 센서 데이터를 함께 처리할 수 있는 멀티모달 구조가 필요하다고 판단하여, 관련 가이드 논문을 선정하고 모델 구조를 분석했습니다. <br>
 
-- 구현 단계에서는 가이드 논문에 근거하여 Multimodal Transformer 기반의 베이스라인 모델을 구현하고, 이미지 패치 토큰과 센서 시계열 토큰을 하나의 시퀀스로 융합하여 Self-Attention을 통해 두 데이터 간의 관계를 학습하도록 설계했습니다.<br>
- 
+- 구현 단계에서는 가이드 논문에 근거하여 Multimodal Transformer 기반의 베이스라인 모델을 구현하고, 이미지 패치 토큰과 센서 시계열 토큰을 하나의 시퀀스로 융합하여 Self-Attention을 통해 두 데이터 간의 관계를 학습하도록 설계했습니다.
+
+<br>
+
 ## 2. 서강대 캡스톤디자인 팀 프로젝트: 2026 상반기
 
 ### IRIS (Industrial Robot Inspection & Safety System)
@@ -41,7 +43,6 @@ AI-Hub의 배터리 불량 이미지 데이터를 활용하여 정상/불량 이
 
 - 팀: [https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot](https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot)
 - 개인: [https://github.com/kimys0925/Industry-safety-robot](https://github.com/kimys0925/Industry-safety-robot)
-
 
 
 ### 프로젝트 개요
