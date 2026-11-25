@@ -113,7 +113,7 @@ Python, RAG, PostgreSQL, NAVER Cloud, Kubernetes, GitHub Actions
 
 ## 4. 서강대 캡스톤디자인 팀 프로젝트: 2026 하반기 (진행 중)
 
-### 스마트 홈 안심 방범문
+### 레이더 기반 스마트 홈 안심 방범문
 
 **Github**
 - https://github.com/orgs/sg-radar-2/repositories
@@ -122,7 +122,7 @@ Python, RAG, PostgreSQL, NAVER Cloud, Kubernetes, GitHub Actions
 
 ### 프로젝트 개요
 
-4D Imaging AI 레이더(RETINA-4SN)를 활용해 현관 주변 인원의 이동 방향, 속도, 체류 시간 등을 분석하고 위험 상황을 판단하는 홈 보안 시스템 개발. 위험 감지 시 카메라 촬영 및 모바일 앱 알림을 제공하며, 다양한 아파트 구조에 적용할 수 있는 시스템 구축을 목표로 함.
+4D Imaging AI 레이더(RETINA-4SN)를 실제로 설치, 활용해 현관 주변 인원의 이동 방향, 속도, 체류 시간 등을 분석하고 위험 상황을 판단하는 홈 보안 시스템 개발. 위험 감지 시 카메라 촬영 및 모바일 앱 알림을 제공하며, 다양한 아파트 구조에 적용할 수 있는 시스템 구축을 목표로 함.
 
 ### 개발 배경 및 기존 서비스와의 비교
 
