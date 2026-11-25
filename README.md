@@ -1,7 +1,7 @@
 # 자기소개
 - 이름: 김예서
-- 소속: 서강대학교 영미어문/컴퓨터공학 전공
-- 2021년~2026년 재학중, 2027년 2월 졸업 예정
+- 소속: 서강대학교 영미어문/컴퓨터공학 복수전공
+- 2021년~2026년 재학중, 2027년 2월(8월) 졸업 예정
 <br>
 
 # 진행 프로젝트
@@ -32,15 +32,103 @@ AI-Hub의 배터리 불량 이미지 데이터를 활용하여 정상/불량 이
 - 구현 단계에서는 가이드 논문에 근거하여 Multimodal Transformer 기반의 베이스라인 모델을 구현하고, 이미지 패치 토큰과 센서 시계열 토큰을 하나의 시퀀스로 융합하여 Self-Attention을 통해 두 데이터 간의 관계를 학습하도록 설계했습니다.<br>
    
 ## 2. 서강대 캡스톤디자인 팀 프로젝트: 2026 상반기
-1. 팀 깃헙
-- https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot
-2. 개인 깃헙
-- README: https://github.com/kimys0925/Industry-safety-robot
-<img width="1011" height="184" alt="image" src="https://github.com/user-attachments/assets/5fdc3d42-29bd-40a3-9edf-fadc661e15ff" />
 
-- Unity와 ROS2를 활용한 산업 안전 순찰 로봇 시뮬레이션 프로젝트입니다. <br>
-- 개요: 본 프로젝트는 산업 시설 내 안전사고를 예방하고자 지능형 자율 점검 및 대피 안내 로봇 시스템을 구현한다.
-열화상 카메라 기반 설비 과열 감지, 나방 탐색 알고리즘을 활용한 능동적 가스 누출원 추적, 가우시안 플룸 모델 기반 동적 대피 경로 산출 등 다양한 안전 점검 기능을 단일 로봇 플랫폼에 통합한다. ROS 2와 Unity 기반의 디지털 트윈 환경에서 로봇의 자율 순찰 및 위험 감지 성능을 검증하며, LLM을 활용한 지능형 상황 보고 기능으로 실시간 대응 능력을 높인다. 이를 통해 사람이 직접 접근하기 어려운 위험 구역의 안전 점검을 자동화하고, 사고 발생 시 신속한 대피를 지원하는 통합 시스템, 통칭 Industrial Robot Inspection & Safety System, 약칭‘IRIS’를 개발하고 제안한다.
+### IRIS (Industrial Robot Inspection & Safety System)
+
+**산업안전 자율점검 및 대피 안내 로봇 시스템**
+
+**GitHub**
+
+- 팀: [https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot](https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot)
+- 개인: [https://github.com/kimys0925/Industry-safety-robot](https://github.com/kimys0925/Industry-safety-robot)
+
+
+
+### 프로젝트 개요
+
+산업 시설 내 안전사고 예방을 위한 자율점검 및 대피 안내 로봇 시스템 개발. 열화상 카메라 기반 과열 감지, 나방 탐색 알고리즘 기반 가스 누출원 추적, 가우시안 플룸 모델 기반 동적 대피 경로 산출 및 LLM 사고 보고 기능을 통합. ROS2와 Unity 기반 디지털 트윈 환경에서 시스템 동작 검증.
+
+### 기술 스택
+
+ROS2, Nav2, Python, Unity
+
+### 담당 업무
+
+- ROS2·Nav2 기반 자율주행 모듈 개발 및 Unity 가상 로봇 간 통신 연동
+- 공장 구조 및 설비 배치 변화에 대응하는 순찰 지점 기반 동적 경로 생성 방식 설계
+- 과열·가스 누출 등 위험 유형별 판단 및 대응 로직 구현
+- ROS2 Topic 기반 자율주행, 대피 안내, 관제 대시보드 및 LLM 사고 보고 모듈 연동
+- 위험 시나리오별 시스템 통합 테스트 및 검증
+
+### 성과
+
+- 공장 구조 변화에 대응할 수 있는 시스템 확장성 확보
+- 서강대학교 캡스톤디자인 경진대회 장려상 수상
+
+---
+
+## 3. NAVER Cloud & AI 부트캠프 1기: 2026.07 \~ 2026.08
+
+### 교육 내용
+
+- VPC 기반 클라우드 네트워크 설계
+- Public/Private Subnet 구성 및 ACG 기반 접근 제어
+- DB 이중화 및 로드밸런서를 활용한 고가용성 인프라 설계
+- CLOVA Studio 기반 LLM 튜닝, 프롬프트 체이닝 및 AI API 연동
+- Sliding Window 기반 데이터 처리 및 토큰 관리
+
+### 팀 프로젝트: YouTalk
+
+**유튜브 영상 자막 기반 RAG 챗봇 서비스 개발 및 NAVER Cloud 배포**
+
+### 프로젝트 개요
+
+유튜브 영상 자막을 기반으로 영상 분석 및 질의응답 기능을 제공하는 RAG 챗봇 서비스 개발. 영상 분석과 채팅 응답 서버를 분리하고, 보안성과 운영 효율성을 고려한 클라우드 인프라 구축 및 서비스 배포.
+
+### 기술 스택
+
+Python, RAG, PostgreSQL, NAVER Cloud, Kubernetes, GitHub Actions
+
+### 담당 업무
+
+- 백엔드 개발 및 API·Worker·Chat 서버 분리
+- Cache DB 및 PostgreSQL 연동
+- VPC 기반 클라우드 인프라 구축 및 배포 참여
+- Kubernetes 운영 및 GitHub Actions 기반 자동 배포 환경 활용
+- TTS 병렬 처리 및 캐싱을 통한 응답 성능 개선
+
+### 성과
+
+- TTS 응답 속도 순차 처리 대비 2.3배 개선
+- NAVER Cloud 환경 서비스 배포
+- NAVER Cloud AI 프로젝트 대상 수상
+
+---
+
+## 4. 서강대 캡스톤디자인 팀 프로젝트: 2026 하반기 (진행 중)
+
+### 스마트 홈 안심 방범문
+
+**4D Imaging AI 레이더 기반 주거 침입 및 이상행동 감지 시스템**
+
+### 프로젝트 개요
+
+4D Imaging AI 레이더(RETINA-4SN)를 활용해 현관 주변 인원의 이동 방향, 속도, 체류 시간 등을 분석하고 위험 상황을 판단하는 홈 보안 시스템 개발. 위험 감지 시 카메라 촬영 및 모바일 앱 알림을 제공하며, 다양한 아파트 구조에 적용할 수 있는 시스템 구축을 목표로 함.
+
+### 기술 스택
+
+Python, RETINA-4SN, Scikit-learn, Raspberry Pi, FastAPI, PostgreSQL, Flutter
+
+### 주요 개발 내용 및 담당 업무
+
+- 레이더 포인트 클라우드 데이터 수집·전처리 및 CSV 변환
+- 이동 궤적 시각화·분석을 통한 행동 패턴 정의
+- Decision Tree 기반 위험 상황 분류 알고리즘 개발
+- Raspberry Pi 기반 카메라 촬영 기능 구현
+- 3D 레이더 감지 영역 시뮬레이터 개발 및 아파트 구조별 감지 사각지대를 최소화하는 설치 위치 분석
+- 현관 위치 및 복도 방향에 따른 상황 분류 기준 보정 기능 개발 중
+- FastAPI 서버 및 모바일 앱과 연계한 실시간 위험 감지·촬영·알림 시스템 통합 진행 중
+
 
 - 역할: 자율주행 / 센서 시뮬레이션
 - 기술: Unity, C#, ROS2, ROS-TCP-Connector, SLAM Toolbox, Nav2
