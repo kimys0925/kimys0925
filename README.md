@@ -70,6 +70,11 @@ ROS2, Nav2, Python, Unity
 
 ## 3. NAVER Cloud & AI 부트캠프 1기: 2026.07 \~ 2026.08
 
+**Github**
+
+- https://github.com/ncp-ai-pro
+
+
 ### 교육 내용
 
 - VPC 기반 클라우드 네트워크 설계
