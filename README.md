@@ -116,6 +116,9 @@ Python, RAG, PostgreSQL, NAVER Cloud, Kubernetes, GitHub Actions
 
 4D Imaging AI 레이더(RETINA-4SN)를 활용해 현관 주변 인원의 이동 방향, 속도, 체류 시간 등을 분석하고 위험 상황을 판단하는 홈 보안 시스템 개발. 위험 감지 시 카메라 촬영 및 모바일 앱 알림을 제공하며, 다양한 아파트 구조에 적용할 수 있는 시스템 구축을 목표로 함.
 
+### 시스템 아키텍쳐
+<img width="1491" height="1055" alt="레이더 기반 현관 보안 서비스 흐름 이미지" src="https://github.com/user-attachments/assets/2bd9c1de-adab-4719-a55d-2b140ea2b322" />
+
 ### 기술 스택
 
 Python, RETINA-4SN, Scikit-learn, Raspberry Pi, FastAPI, PostgreSQL, Flutter
