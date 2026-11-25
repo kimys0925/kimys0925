@@ -115,6 +115,9 @@ Python, RAG, PostgreSQL, NAVER Cloud, Kubernetes, GitHub Actions
 
 ### 스마트 홈 안심 방범문
 
+**Github**
+- https://github.com/orgs/sg-radar-2/repositories
+
 **4D Imaging AI 레이더 기반 주거 침입 및 이상행동 감지 시스템**
 
 ### 프로젝트 개요
