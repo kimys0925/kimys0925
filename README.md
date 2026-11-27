@@ -116,7 +116,7 @@ Python, RAG, PostgreSQL, NAVER Cloud, Kubernetes, GitHub Actions
 ### 레이더 기반 스마트 홈 안심 방범문 (**4D Imaging AI 레이더 기반 주거 침입 및 이상행동 감지 시스템**)
 
 ### 가장 최근 발표 (2026-11-27) ; 시연 영상 업뎃 예정
-[4D 레이더 홈 안심 방범문.pdf](https://github.com/user-attachments/files/35501510/4D.pdf)
+[4D 레이더 홈 안심 방범문.pdf](https://github.com/user-attachments/files/35501789/4D.pdf)
 
 ### Github
 - https://github.com/orgs/sg-radar-2/repositories
