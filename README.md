@@ -70,7 +70,7 @@ ROS2, Nav2, Python, Unity
 
 ## 3. NAVER Cloud & AI 부트캠프 1기: 2026.07 \~ 2026.08
 
-**Github**
+### Github
 
 - https://github.com/ncp-ai-pro
 
@@ -113,12 +113,13 @@ Python, RAG, PostgreSQL, NAVER Cloud, Kubernetes, GitHub Actions
 
 ## 4. 서강대 캡스톤디자인 팀 프로젝트: 2026 하반기 (진행 중)
 
-### 레이더 기반 스마트 홈 안심 방범문
+### 레이더 기반 스마트 홈 안심 방범문 (**4D Imaging AI 레이더 기반 주거 침입 및 이상행동 감지 시스템**)
 
-**Github**
+### 가장 최근 발표 (2026-11-27) ; 시연 영상 업뎃 예정
+[4D 레이더 홈 안심 방범문.pdf](https://github.com/user-attachments/files/35501510/4D.pdf)
+
+### Github
 - https://github.com/orgs/sg-radar-2/repositories
-
-**4D Imaging AI 레이더 기반 주거 침입 및 이상행동 감지 시스템**
 
 ### 프로젝트 개요
 
