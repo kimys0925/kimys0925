@@ -5,7 +5,7 @@
 <br>
 
 # 진행 프로젝트
-## 1. CV 팀 프로젝트 (멋쟁이사자처럼): 2025.12~2026.02
+## 1. Computer Vision 팀 프로젝트 (멋쟁이사자처럼 부트캠프): 2025.12~2026.02
 ### i. 주행 중 동적/정적 물체 3D 객체탐지<br>
 - https://github.com/kimys0925/3D_objectdetection<br>
 - 차세대 3D 객체 탐지 알고리즘인 CenterPoint를 구현하고 성능을 분석한 프로젝트입니다.
