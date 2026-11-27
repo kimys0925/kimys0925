@@ -174,11 +174,3 @@ Python, RETINA-4SN, Scikit-learn, Raspberry Pi, FastAPI, PostgreSQL, Flutter
 - 현관 위치 및 복도 방향에 따른 상황 분류 기준 보정 기능 개발 중
 - FastAPI 서버 및 모바일 앱과 연계한 실시간 위험 감지·촬영·알림 시스템 통합 진행 중
 
-
-- 역할: 자율주행 / 센서 시뮬레이션
-- 기술: Unity, C#, ROS2, ROS-TCP-Connector, SLAM Toolbox, Nav2
-- 기여:
-  - Unity 기반 로봇 수동 조작 기능 구현
-  - Physics.Raycast 기반 LiDAR 센서 시뮬레이션 구현
-  - ROS2 `/scan` 토픽 publish 구조 설계
-  - SLAM Toolbox 및 Nav2 연동을 위한 센서 데이터 구조 설계
