@@ -39,7 +39,7 @@ AI-Hub의 배터리 불량 이미지 데이터를 활용하여 정상/불량 이
 
 **산업안전 자율점검 및 대피 안내 로봇 시스템**
 
-**GitHub**
+### GitHub
 
 - 팀: [https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot](https://github.com/A3C2-capstone-safety-robot/Industry-safety-robot)
 - 개인: [https://github.com/kimys0925/Industry-safety-robot](https://github.com/kimys0925/Industry-safety-robot)
